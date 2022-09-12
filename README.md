@@ -1,6 +1,5 @@
 # Aarrn33
 
-![Header](header.png)
 ### Beginner/Intermediate French Python progammer
 Seldom adds my (few and small) projects on Github
 Speaks french and english
